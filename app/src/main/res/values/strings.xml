@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleActionMode</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_forward">Forward</string>
+
+</resources>
